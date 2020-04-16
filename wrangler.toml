@@ -1,0 +1,4 @@
+name = "intern-app"
+type = "javascript"
+account_id = "d6b55925b8019428d123d27a35725720"
+workers_dev = true
