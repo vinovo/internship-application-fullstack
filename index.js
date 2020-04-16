@@ -23,7 +23,7 @@ async function handleRequest(request) {
 
     url = urls[Math.floor(Math.random() * urls.length)];
   }
-  
+
   if (url.endsWith('1')) {
     index = 0
   } else {
